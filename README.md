@@ -4,9 +4,8 @@
 # **Zhiying WENG**
 ## *Dévelopeuse*  
 
-## <kbd>**EXPÉRIENCES**</kbd> 
+<kbd>**EXPÉRIENCES**</kbd> 
   
-
 Data analyste (stage)  
 *Agence 79 - Neuilly sur Seine* 
 - Structuration des données
@@ -28,7 +27,8 @@ Analyste de données (stage)
 - Analyse de données sur des mesures expérimentales
 Chef du Département Network 
 - - - -    
-## <kbd>**FORMATIONS**</kbd>
+<kbd>**FORMATIONS**</kbd>  
+
 Formation Développeur JAVA full stack (équivalent Bac+2)  
 *Simplon - Montreuil* 
 - Développeur web et web mobile : Titre professionnel  
