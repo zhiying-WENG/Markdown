@@ -5,7 +5,9 @@
 ## *Dévelopeuse*  
 
 ## <kbd>**EXPÉRIENCES**</kbd> 
-  
+```
+EXPÉRIENCES 
+```  
 ### **Data analyste (stage)**  
 [*Agence 79 - Neuilly sur Seine*][1]  
 
