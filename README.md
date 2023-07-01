@@ -15,14 +15,17 @@
 - Analyse et exploration des données  
 
 ### **Développeur web (stage)**  
-*ASPEN Télécoms – Antony*   
+
+*ASPEN Télécoms – Antony*  
+
 Projet : Refonte du site web (PHP, MySql)
 - Création de la gestion des utilisateurs, des commandes et des paniers
 - Création et administration de base de données 
 - Refonte du style graphique du site web  
 
 ### **Analyste de données (stage)**   
-*Laboratoire de Génie des Procédés Catalytiques - Lyon*
+*Laboratoire de Génie des Procédés Catalytiques - Lyon*  
+
 - Analyse de données sur des mesures expérimentales
 Analyste de données (stage) 
 
@@ -33,11 +36,13 @@ Chef du Département Network
 ## <kbd>**FORMATIONS**</kbd>  
 
 ### **Formation Développeur JAVA full stack (équivalent Bac+2)**  
-*Simplon - Montreuil* 
+*Simplon - Montreuil*  
+
 - Développeur web et web mobile : Titre professionnel  
 
 ### **Formation Développeur Data (équivalent Bac+2)**  
-*Simplon - Nanterre* 
+*Simplon - Nanterre*  
+
 - Développer une base de données : Certification RS3497
 - Exploiter une base de données : Certification RS3508
 - Méthodes agiles : Certification RS2085
